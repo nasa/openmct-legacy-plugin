@@ -1,6 +1,5 @@
 # Legacy Support for Open MCT
-
-This plugin can be used by projects to retain support for Open MCT's legacy API and plugins, all of which have now been removed from the main Open MCT repository. 
+This is a plugin for [NASA's Open MCT project](https://github.com/nasa/openmct). When installed this plugin adds support for Open MCT's legacy API and plugins, all of which have now been removed from the main Open MCT repository. 
 
 We strongly encourage users to migrate to [our modern API](https://github.com/nasa/openmct/blob/master/API.md).
 

@@ -15,7 +15,7 @@ npm install --save-dev nasa/openmct-legacy-support
 Note that this plugin will need to be installed before any plugins or code that make use of the legacy API.
 
 ``` JavaScript
-import OpenMCTLegacySupport from 'openmct-legacy-support'
+import OpenMCTLegacySupport from 'openmct-legacy-plugin'
 
 openmct.install(OpenMCTLegacySupport());
 ```

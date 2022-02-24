@@ -7,7 +7,7 @@ We strongly encourage users to migrate to [our modern API](https://github.com/na
 
 ### From the command line
 ```
-npm install --save-dev nasa/openmct-legacy-support
+npm install --save-dev nasa/openmct-legacy-plugin
 ```
 
 ### In your code

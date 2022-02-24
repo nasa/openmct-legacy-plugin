@@ -9,7 +9,7 @@ module.exports = {
     output: {
         path: path.resolve(__dirname, 'dist'),
         filename: 'plugin.js',
-        library: '[name]',
+        library: 'OpenMCTLegacyPlugin',
         libraryTarget: 'umd',
     },
     

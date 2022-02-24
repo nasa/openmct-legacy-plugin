@@ -1,5 +1,5 @@
 {
-  "name": "openmct-legacy-support",
+  "name": "openmct-legacy-plugin",
   "version": "0.0.1",
   "description": "Plugin that adds support for Open MCT's legacy API and Angular 1.x",
   "main": "dist/plugin.js",
